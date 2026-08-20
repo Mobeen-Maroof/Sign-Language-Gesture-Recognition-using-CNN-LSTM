@@ -46,5 +46,12 @@ This project helped me strengthen my skills in **Computer Vision**, **Deep Learn
 <img width="313" height="314" alt="li 12" src="https://github.com/user-attachments/assets/82049fd9-e8e0-4c90-a4ab-f945938454cc" />
 <img width="399" height="308" alt="li 13" src="https://github.com/user-attachments/assets/32d5ca20-1556-4238-94ae-647df1286f4e" />
 
+## Author
+
+**Mobeen Maroof**
+
+**Registration No:** Mtech-DS26013
+
+**M-Tech Data Science Internship**
 
 #GitHub #OpenSource #ArtificialIntelligence #DeepLearning #ComputerVision #SignLanguage #CNN #LSTM #MediaPipe #OpenCV #Python #TensorFlow #MachineLearning #AIProjects
